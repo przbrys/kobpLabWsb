@@ -1,3 +1,4 @@
 developcommit
 feature1commit
 feature 2
+feature3commit
